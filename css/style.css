@@ -3,7 +3,22 @@
       font-family: WDXL Lubrifont TC, sans-serif;
 
     }
- 
+ .navlinks{
+  font-size: 1.1rem;
+
+ }
+ .name{
+  font-size: 1.5rem;
+
+ }
+ .name:hover{
+    color:#0dcaf0 !important;
+  text-decoration: underline;
+ }
+ .navlinks li a:hover{
+  color:#0dcaf0 !important;
+  
+}
     .hero {
       padding: 5rem 0;
       text-align: center;
